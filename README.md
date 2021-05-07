@@ -6,9 +6,9 @@
 ![image](https://github.com/shubham-1903/gallery-fun/blob/master/src/assets/Screenshot2.png?raw=true)
 
 Click on the **Click Here** to see the Gallery Website Demo.
-| Name of Script  |  Author | Tools Used |
+| Gallery-Website  |  Author | Tools Used |
 | --- | --- | --- 
-|Gallery-Website| [Click Here](https://hungry-franklin-070fb5.netlify.app/) | [Shubham Kumar](https://github.com/Priyadarshan2000)| React,CSS,HTML
+|[Click Here](https://hungry-franklin-070fb5.netlify.app/)| [Shubham Kumar](https://github.com/shubham-1903)| React,CSS,HTML
 
 # Getting Started with Create React App
 
