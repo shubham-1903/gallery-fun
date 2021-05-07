@@ -6,11 +6,11 @@
 	letter-spacing: 0.5px;
 	margin: 0;
 	padding: 0;
-	background-color: linear-gradient(#667eea, #764ba2);
+
 
 }
 body {
-	background-color: linear-gradient(#667eea, #764ba2);
+	background: linear-gradient(#2BC0E4, #EAECC6);
 }
 /* FORM STYLES */
 *,

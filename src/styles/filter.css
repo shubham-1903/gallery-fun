@@ -1,7 +1,7 @@
 .input_filter {
 	display: flex;
 	justify-content: center;
-	background-color: aquamarine;
+	background: linear-gradient(#24C6DC,#514A9D);
 	height: auto;
 	padding: 10px 0px;
 }
