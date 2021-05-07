@@ -11,6 +11,22 @@
 # production
 /build
 /.env
+
+/src/components/User.jsx
+/src/components/API.jsx
+/src/components/Gridcss.jsx
+/src/components/Navbar.jsx
+/src/components/NestedGrid.jsx
+
+/src/styles/navbar.css
+/src/styles/gridflex.css
+
+/src/MenuItem.jsx
+/src/MenuToggle.jsx
+/src/Navigation.jsx
+
+
+
 # misc
 .DS_Store
 .env.local
