@@ -1,3 +1,11 @@
+
+
+### Gallery App
+![image](https://github.com/shubham-1903/gallery-fun/blob/master/src/assets/Screenshot1.png?raw=true)
+
+![image](https://github.com/shubham-1903/gallery-fun/blob/master/src/assets/Screenshot2.png?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
