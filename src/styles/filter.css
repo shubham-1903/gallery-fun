@@ -1,0 +1,32 @@
+.input_filter {
+	display: flex;
+	justify-content: center;
+	background-color: aquamarine;
+	height: auto;
+	padding: 10px 0px;
+}
+.input_filter input {
+	height: 40px;
+	width: 200px;
+	padding-left: 10px;
+	outline: none;
+	border: none;
+	background-color: -internal-light-dark(rgb(223, 80, 80), rgb(230, 152, 79));
+	box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+		0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+	transition: width 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.input_filter input[type="search" i] {
+	font-size: larger;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	color: crimson;
+}
+.input_filter input:focus {
+	width: 320px;
+	transition: width 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+::placeholder {
+	color: red;
+	padding-left: 6px;
+}
