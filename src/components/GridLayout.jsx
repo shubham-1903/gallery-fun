@@ -1,20 +1,11 @@
-import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import Grid from "@material-ui/core/Grid";
-import NestedGrid from "../components/NestedGrid";
 const useStyles = makeStyles((theme) => ({
 	root: {
 		flexGrow: 1,
 		overflowX: "hidden",
 		padding: "20px",
 		marginBottom: "5px",
-	},
-	paper: {
-		padding: theme.spacing(2),
-		textAlign: "center",
-		// color: red,
-		backgroundColor: "red",
-		height: "400px",
 	},
 	imgStyle: {
 		objectFit: "cover",
@@ -126,7 +117,6 @@ export default function FullWidthGrid({ dataSearch }) {
 					/>
 				</Grid>
 			</Grid>
-			{/* <NestedGrid image={[dataSearch[6], dataSearch[7], dataSearch[8]]} height={"800px"}/> */}
 		</div>
 	);
 }
